@@ -1,3 +1,5 @@
 # Learning Git #
 
-Learning git is important but lame.
+Learning git is important!
+
+Hello world! HELLO!
