@@ -1,3 +1,3 @@
 # Learning Git #
 
-Learning git is important and cool.
+Learning git is important but lame.
